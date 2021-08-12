@@ -1,0 +1,16 @@
+.vscode/
+__pycache__/
+build/
+dist/
+report/
+*.log
+*.exe
+*.png
+*.ico
+*.spec
+*.exe
+*.zip
+*.csv
+*.xls
+*.xlsx
+test*.py
